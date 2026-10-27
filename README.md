@@ -1,4 +1,11 @@
 <!-- markdownlint-disable MD033 MD041 -->
+> ## ⛔ 未成型即弃（2026-10-28 归档，只读）
+>
+> 这个仓库只有一次 `Initial commit`（2026-08-31）之后再无提交，README 还是 MaaFramework 的
+> 模板原文，`agent/` `tools/` `deps/` 全是脚手架 —— **没有任何可用的实现被写出来过**。
+>
+> 归档只是为了留个历史；不要把它当成能用的项目，也不要从它这里找玩法。
+
 <p align="center">
   <img alt="LOGO" src="https://cdn.jsdelivr.net/gh/MaaAssistantArknights/design@main/v1/icons/maa-logo_512x512.png" width="256" height="256" />
 </p>
